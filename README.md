@@ -1,11 +1,11 @@
-# <img src="public/icons/icon_48.png" width="45" align="left"> Dat Dai Cho Anh - Now
+# <img src="public/icons/64.png" width="45" align="left"> Lazy Order
 
-My Chrome Extension
+Lazy Order
 
 ## Features
 
-- Feature 1
-- Feature 2
+- Randomly pick an Now option for you
+- Select a custom rating so you can exclude the less voted option
 
 ## Install
 
