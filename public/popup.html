@@ -7,17 +7,21 @@
 </head>
 <body>
   <div class="app">
-    <p class="counter-label">Counter</p>
-    <div id="counter" class="counter"></div>
+    <p class="title">Choose a Random Now food</p>
     <div class="button-container">
-      <button id="decrementBtn" class="button">-</button>
-      <button id="incrementBtn" class="button">+</button>
+      <div class="" style="width:100px;">
+        <select id="now-rating">
+          <option value="low">Select Rating</option>
+          <option value="top">top</option>
+          <option value="high">high</option>
+          <option value="medium">medium</option>
+          <option value="low">low</option>
+        </select>
+      </div>
     </div>
-
-    <hr class="divider" />
-
-    <p class="title">Chrome Extension is Ready!</p>
-    <p class="subtitle">Start by updating <code>popup.html</code></p>
+    <div class="button-container">
+      <button class="button" id="action-button">Choose Now!</button>
+    </div>
   </div>
 
   <script src="popup.js"></script>

@@ -1,4 +1,4 @@
-# <img src="public/icons/icon_48.png" width="45" align="left"> Dat Dai Cho-a
+# <img src="public/icons/icon_48.png" width="45" align="left"> Dat Dai Cho Anh - Now
 
 My Chrome Extension
 
